@@ -1,0 +1,6 @@
+#########################################
+# Install php storm On Linux Terminal:  #
+#########################################
+
+>>sudo apt install snapd
+>>sudo snap install phpstorm --classic
